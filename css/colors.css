@@ -1,0 +1,23 @@
+body {
+  background-color: #f0efef;
+}
+
+.yellow {
+  background-color: #f9e42e;
+}
+
+.black {
+  background-color: #121212;
+}
+
+.yellow-font {
+  color: #f9e42e;
+}
+
+.blue-font {
+  color: #033048;
+}
+
+.white-font {
+  color: white;
+}
